@@ -1,4 +1,4 @@
-![portada](https://github.com/Ironhack-Data-Madrid-Enero-2021/w3-pandas-project/blob/master/images/portada.jpg)
+![portada](https://github.com/Ironhack-Data-Madrid-Enero-2022/w3-pandas-project/blob/main/images/portada.jpg)
 
 # W3 Project - Data cleaning & wrangling
 
